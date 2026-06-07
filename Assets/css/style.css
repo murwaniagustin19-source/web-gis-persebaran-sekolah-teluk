@@ -17,14 +17,13 @@ body{
     background-image:
     linear-gradient(rgba(0,0,0,0.6),
     rgba(0,0,0,0.6)),
-    url('../img/Background.jpg');
+    url('/web-gis-persebaran-sekolah-teluk/Assets/img/Background.jpg');
 
     background-size: cover;
     background-position: center;
 
     color: white;
 }
-
 .container{
 
     width:480px;
